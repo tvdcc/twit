@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 30 Apr 2022 01:22:54 at https://getvideobot.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://getvideobot.com/ -O1 "C:\My Web Sites\df" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:22:55	Warning: 	File not parsed, looks like binary: https://getvideobot.com/robots.txt
+01:23:00	Warning: 	Link https://getvideobot.com/favicon.ico not scanned (follow robots meta tag)
+01:23:02	Warning: 	Link https://getvideobot.com/GET not scanned (follow robots meta tag)
+01:23:03	Error: 	"Not Found" (404) at link https://getvideobot.com/assets/fonts/glyphicons-halflings-regular.eot (from https://getvideobot.com/assets/css/bootstrap.min.css)
+01:23:03	Error: 	"Not Found" (404) at link https://getvideobot.com/assets/fonts/glyphicons-halflings-regular.eot? (from https://getvideobot.com/assets/css/bootstrap.min.css)
+01:23:03	Error: 	"Not Found" (404) at link https://getvideobot.com/assets/fonts/glyphicons-halflings-regular.woff2 (from https://getvideobot.com/assets/css/bootstrap.min.css)
+01:23:03	Error: 	"Not Found" (404) at link https://getvideobot.com/assets/fonts/glyphicons-halflings-regular.woff (from https://getvideobot.com/assets/css/bootstrap.min.css)
+01:23:03	Error: 	"Not Found" (404) at link https://getvideobot.com/assets/fonts/glyphicons-halflings-regular.ttf (from https://getvideobot.com/assets/css/bootstrap.min.css)
+01:23:03	Error: 	"Not Found" (404) at link https://getvideobot.com/assets/fonts/glyphicons-halflings-regular.svg (from https://getvideobot.com/assets/css/bootstrap.min.css)
+01:23:03	Warning: 	Link https://getvideobot.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+01:23:03	Error: 	"Not Found" (404) at link https://getvideobot.com/"https://paddle.com/privacy/" (from https://getvideobot.com/privacy)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 seconds : 25 links scanned, 17 files written (532840 bytes overall) [233882 bytes received at 25986 bytes/sec], 455786 bytes transferred using HTTP compression in 24 files, ratio 28%, 5.0 requests per connection
+(7 errors, 4 warnings, 0 messages)
